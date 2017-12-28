@@ -1,0 +1,8 @@
+{:dev {:env {:database-url "127.0.0.1"
+             :database-name "link_shortener"
+             :database-user "postgres"
+             :database-password "trust"}}
+ :test {:env {:database-url "127.0.0.1"
+              :database-name "link_shortener"
+              :database-user "postgres"
+              :database-password "trust"}}}

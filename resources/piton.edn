@@ -1,0 +1,1 @@
+{:mig-path "sql/migrations", :seed-path "sql/seeds", :migrations ["1513048276-long_urls_table.sql"], :seeds []}
